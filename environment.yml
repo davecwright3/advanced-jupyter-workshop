@@ -1,0 +1,21 @@
+name: adv-jupyter
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - jupyterlab
+  - jupyterlab_vim
+  - jupyterlab-lsp
+  - python-lsp-server
+  - jupyterlab-git
+  - jupyter-ai
+  - jupyter-resource-usage
+  - jupyterlab-spellchecker
+  - nbgrader
+  - numpy
+  - matplotlib
+  - jupytext
+  - pip:
+      - openai
+      - jupyterlab-quarto
+      - nbdime
