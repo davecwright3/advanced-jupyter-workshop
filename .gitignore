@@ -1,0 +1,14 @@
+.DS_Store
+.idea
+*.log
+tmp/
+
+*.py[cod]
+*.egg
+build
+htmlcov
+
+.quarto
+.mypy_cache
+.ipynb_checkpoints
+.virtual_documents
